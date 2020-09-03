@@ -30,7 +30,7 @@ This project was made using the following technologies:
 
 ```bash
 # Clone repository into your machine
-$ git clone https://gitlab.com/fbduartesc/space-shooter-javascript.git
+$ git clone https://github.com/fbduartesc/space-shooter-javascript.git
 ```
 
 ### 💻 Running project on a web browser
@@ -44,5 +44,5 @@ $ index.html
 
 Released in 2020.
 
-Made with passion by [Fabio Duarte de Souza](https://gitlab.com/fbduartesc) 🚀.
-This project is under the [MIT license](https://gitlab.com/fbduartesc/space-shooter-javascript/blob/master/LICENSE).
+Made with passion by [Fabio Duarte de Souza](https://github.com/fbduartesc) 🚀.
+This project is under the [MIT license](https://github.com/fbduartesc/space-shooter-javascript/blob/master/LICENSE).
